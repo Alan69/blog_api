@@ -1,5 +1,4 @@
 
-```markdown
 # FastAPI Blog Application
 
 This is a FastAPI-based blog application with user authentication, CRUD operations for posts, and a basic frontend setup using React and Tailwind CSS.
@@ -192,7 +191,6 @@ const PostList = () => {
 };
 
 export default PostList;
-```
 ```
 
 ### Key Points
